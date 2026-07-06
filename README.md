@@ -2,7 +2,7 @@
 
 ### Advancing Explainable AI in Green Finance
 
-- Bio
+### Bio
 - We are an innovative team specialized in FinTech, with a sharp focus on credit risk assessment and management for new energy enterprises. We are committed to integrating explainable AI into risk control decision-making, enabling financial institutions to identify and quantify risks more transparently and accurately, and to drive the intelligent development of green finance.
 
 <h3 align="left">Connect with me:</h3>
